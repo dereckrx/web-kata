@@ -1,5 +1,19 @@
-## 
+## Web Kata!
 
-## UI Reference
+A template for a new web project 
 
-https://semantic-ui.com/elements/button.html
+## Code
+
+- Typescript
+- React 
+- Redux
+
+## Testing
+
+- Jest
+- Enzyme
+
+## Design and Style
+
+- Semantic-ui: https://semantic-ui.com/elements/button.html
+- Flexbox
